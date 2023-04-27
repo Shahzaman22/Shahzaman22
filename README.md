@@ -5,6 +5,7 @@ About me
 * Primary Languages: JS
 * Secondary Language: Python | Php
 * Primary Frameworks: React JS | Node JS | Express JS
+* Databases : Mongo DB | MYSQL
 * Devops Enthusiast
 
   

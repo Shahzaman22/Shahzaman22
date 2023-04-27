@@ -2,9 +2,9 @@
 
 About me 
 * Full Stack Software Engineer
-* Primary Languages: C# | JS
-* Secondary Language: Python
-* Primary Frameworks: .NET Core MVC | .NET Core WEB API | Vue JS | ASP .NET Webforms
-* Cloud Enthusiast
-* Aiming To Become A Solution Architect
+* Primary Languages: JS
+* Secondary Language: Python | Php
+* Primary Frameworks: React JS | Node JS | Express JS
+* Devops Enthusiast
+
   
